@@ -41,7 +41,7 @@ const App = () => {
       </div>
       <div ref={ref} className='h-[87vh] absolute top-[13vh] left-0 w-screen flex flex-wrap justify-start items-start overflow-y-auto'>
           {TaskList.map((task, index) => (
-          <motion.div drag dragConstraints={ref} whileDrag={{ scale: 1.2 }} dragTransition={{
+          <motion.div drag dragConstraints={ref} whileDrag={{ scale: 1.2 , boxShadow: "0px 10px 20px rgb(255, 255, 255)"}} dragTransition={{
     bounceStiffness: 600,
     bounceDamping: 10
   }} id='cards' key={index} className=' relative h-[10vw] w-[17vh] ml-2 mr-2 pl-2  border-2  border-white bg-white rounded-lg'>
