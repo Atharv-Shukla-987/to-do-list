@@ -7,7 +7,7 @@ It's made using *React* and *vite* .
 It features a smooth and give animated UI
 
 
- Live demo - 
+ Live demo - https://to-do-list-xi-neon-90.vercel.app/
 
 
 ## Features 
@@ -45,7 +45,7 @@ to-do-list/
 ##  Deployment
 
 This project is deployed on **Vercel**. Any push to the `main` branch triggers an automatic deployment.
-
+Project link - https://to-do-list-xi-neon-90.vercel.app/
 ---
 
 ##  Author
