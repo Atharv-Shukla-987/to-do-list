@@ -1,73 +1,31 @@
-# ✅ To-Do List
+# To do list
 
-A clean and minimal task management app built with **React** and **Vite**, featuring smooth animations and a modern UI. Stay organized and get things done.
+It's a website/ webpage where you can do your task management i.e it's a task management website
 
-🔗 **Live Demo:** [to-do-list-xi-neon-90.vercel.app](https://to-do-list-xi-neon-90.vercel.app)
+It's made using *React* and *vite* .
 
----
-
-## 🚀 Features
-
-- Add, complete, and delete tasks with ease
-- Smooth animations powered by Framer Motion
-- Clean, icon-rich UI with Lucide React
-- Fully responsive design
-- Fast performance with Vite and React 19
-
----
-
-## 🛠️ Tech Stack
-
-| Technology | Purpose |
-|---|---|
-| [React 19](https://react.dev) | UI framework |
-| [Vite](https://vitejs.dev) | Build tool & dev server |
-| [Framer Motion](https://www.framer.com/motion/) | Animations |
-| [Lucide React](https://lucide.dev) | Icons |
-| [Vercel](https://vercel.com) | Deployment |
-
----
-
-## 📦 Getting Started
-
-### Prerequisites
-
-- Node.js (v18 or higher)
-- npm or yarn
-
-### Installation
-
-bash
-# Clone the repository
-git clone https://github.com/Atharv-Shukla-987/to-do-list.git
-
-# Navigate into the project directory
-cd to-do-list
-
-# Install dependencies
-npm install
+It features a smooth and give animated UI
 
 
-### Running Locally
-
-bash
-npm run dev
+ Live demo - 
 
 
-The app will be available at `http://localhost:5173`.
-
-### Build for Production
-
-bash
-npm run build
-
-
-### Preview Production Build
-
-bash
-npm run preview
+## Features 
+- Add task 
+- delete task
+- responsive design 
+- fast performance 
 
 
+## Used tech
+- React 
+- vite
+- framer motion
+- lucid react
+
+
+
+Project structure
 ---
 
 ## 📁 Project Structure
