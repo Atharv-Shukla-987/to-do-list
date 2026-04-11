@@ -25,37 +25,37 @@ It features a smooth and give animated UI
 
 
 
-Project structure
+
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 to-do-list/
-├── public/          # Static assets
-├── src/             # React source files
-├── index.html       # HTML entry point
-├── vite.config.js   # Vite configuration
-├── eslint.config.js # ESLint configuration
-└── package.json     # Project metadata & dependencies
+├── public/          
+├── src/            
+├── index.html       
+├── vite.config.js   
+├── eslint.config.js 
+└── package.json     
 ```
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 This project is deployed on **Vercel**. Any push to the `main` branch triggers an automatic deployment.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Atharv Shukla**
 - GitHub: [@Atharv-Shukla-987](https://github.com/Atharv-Shukla-987)
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
