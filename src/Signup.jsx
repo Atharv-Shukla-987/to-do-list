@@ -30,7 +30,7 @@ const Signup = () => {
       return
     }
 
-    // Add your signup logic here
+
     console.log('Signup:', { username, email, password })
     // After successful signup, navigate to login
     navigate('/login')

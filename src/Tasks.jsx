@@ -50,7 +50,7 @@ const Tasks = () => {
     <div className='h-screen w-screen overflow-x-hidden '>
       <Background />
       
-      {/* Logout Button */}
+   
       <button 
         onClick={handleLogout}
         className='absolute top-4 right-4 bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded border-2 border-red-500 z-50'
