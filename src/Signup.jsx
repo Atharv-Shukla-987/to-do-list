@@ -14,7 +14,7 @@ const Signup = () => {
     e.preventDefault()
     setError('')
 
-    // Validation
+   
     if (!username || !email || !password || !confirmPassword) {
       setError('All fields are required')
       return
